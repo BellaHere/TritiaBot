@@ -1,0 +1,2 @@
+# TritiaBot
+TritiaBot is, idk.
